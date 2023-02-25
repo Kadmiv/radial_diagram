@@ -4,7 +4,7 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:radial_diagram/classes/radial_point.dart';
-import 'package:radial_diagram/classes/radial_tree.dart';
+import 'package:radial_diagram/classes/radial_tree_calculator.dart';
 import 'package:radial_diagram/classes/tree_node.dart';
 
 class RadialTreePainter extends CustomPainter {
